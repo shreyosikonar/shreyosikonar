@@ -89,15 +89,6 @@ Generative AI & RAG
 Building Real-World Projects
 ```
 
----
-
-## 📈 GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shreyosikonar\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shreyosikonar\&layout=compact\&theme=default)
-
----
 
 ## 🤝 Let's Connect
 
