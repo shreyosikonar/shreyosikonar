@@ -4,9 +4,9 @@
 
 I'm a passionate and motivated **Computer Science graduate** interested in **Software Development, Automation Testing, and Artificial Intelligence**. I enjoy building practical projects, learning new technologies, and solving real-world problems through code.
 
-* 🔭 Currently working on **Automation Testing and AI-based projects**
+* 🔭 Currently working on **AI-based projects**
 * 🌱 Currently learning **Python, Selenium, API Testing, SQL, and Generative AI**
-* 💻 Interested in **Software Testing, Automation, Backend Development, and AI/ML**
+* 💻 Interested in **software development, Software Testing, Automation, Backend Development, and AI/ML**
 * 🎯 Looking for opportunities as a **Software Engineer / Automation Tester / QA Engineer**
 * 📍 Based in **Bangalore, Karnataka, India**
 * 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shreyosi-konar-ab7012293/)
